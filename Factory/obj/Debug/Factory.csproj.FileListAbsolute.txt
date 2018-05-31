@@ -1,0 +1,7 @@
+E:\Projetos\Tutoriais\DesignPatterns\Factory\bin\Debug\Factory.exe.config
+E:\Projetos\Tutoriais\DesignPatterns\Factory\bin\Debug\Factory.exe
+E:\Projetos\Tutoriais\DesignPatterns\Factory\bin\Debug\Factory.pdb
+E:\Projetos\Tutoriais\DesignPatterns\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+E:\Projetos\Tutoriais\DesignPatterns\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+E:\Projetos\Tutoriais\DesignPatterns\Factory\obj\Debug\Factory.exe
+E:\Projetos\Tutoriais\DesignPatterns\Factory\obj\Debug\Factory.pdb

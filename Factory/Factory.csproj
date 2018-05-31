@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FabricaDeProduto.cs" />
+    <Compile Include="FabricarProdutoB.cs" />
     <Compile Include="FabricarProdutoA.cs" />
     <Compile Include="Produto.cs" />
     <Compile Include="ProdutoConcretoA.cs" />

@@ -8,5 +8,6 @@ namespace Factory
 {
     class ProdutoConcretoB : Produto
     {
+
     }
 }
